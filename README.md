@@ -1,6 +1,6 @@
 # smarthomeui
 
-A new Flutter project.
+Minimal SmartHomeUI, created using Flutter
 
 ## Getting Started
 
